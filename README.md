@@ -3,7 +3,7 @@
 <p align="center">Hi, I'm João Pedro 🚀<br><br> As a backend developer, I'm focused on exploring new technologies and techniques to create high-quality solutions. Currently, I'm at an <strong>intermediate level</strong> and I'm directing my efforts towards web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucenac&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats-weld-iota.vercel.app/?user=lucenac&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-peach-psi-10.vercel.app//api/top-langs/?username=lucenac&show_icons=true&theme=radical&layout=compact" />
 
  </div>
